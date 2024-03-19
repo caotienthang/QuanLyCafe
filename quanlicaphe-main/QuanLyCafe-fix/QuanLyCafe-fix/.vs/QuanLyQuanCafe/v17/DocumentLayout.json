@@ -1,0 +1,580 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|d:\\quanlicaphe-main\\quanlicaphe-main\\quanlycafe-fix\\quanlycafe-fix\\quanlycafe\\forms\\formchitietkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formchitietkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formchitietkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formchitietkm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\dangnhap\\formdangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formkhuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\formchinh\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\formchinh\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\formchinh\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\formchinh\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formdoithongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formdoithongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\frominfouserstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\frominfouserstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\frominfouserstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\frominfouserstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formbanhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formkhuyenmai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formkhuyenmai.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\hoadonreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\hoadonreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\forms\\formdoithongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\forms\\formdoithongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\formchinh\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\formchinh\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\quanlycafe\\formchinh\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AC26BE-E2A3-411C-94C9-CFD6E99A3509}|QuanLyCafe\\QuanLyQuanCafe.csproj|solutionrelative:quanlycafe\\formchinh\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormBanHang.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormBanHang.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormBanHang.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormBanHang.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAowAoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:35.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormChiTietKM.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormChiTietKM.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormChiTietKM.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormChiTietKM.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormChiTietKM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:37:36.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDangNhap.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\DangNhap\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\DangNhap\\FormDangNhap.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\DangNhap\\FormDangNhap.cs",
+              "RelativeToolTip": "QuanLyCafe\\DangNhap\\FormDangNhap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\DangNhap\\FormDangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\DangNhap\\FormDangNhap.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\DangNhap\\FormDangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\DangNhap\\FormDangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMon.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormMon.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormMon.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormMon.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormMon.cs",
+              "ViewState": "AQIAAJsBAAAAAAAAAADwv7ABAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormBanHang.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormBanHang.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormBanHang.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormBanHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormChiTietKM.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormChiTietKM.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormChiTietKM.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormChiTietKM.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormChiTietKM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormKhuyenMai.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKhuyenMai.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormKhuyenMai.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKhuyenMai.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKhuyenMai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormKhuyenMai.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKhuyenMai.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormKhuyenMai.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKhuyenMai.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormKhuyenMai.cs",
+              "ViewState": "AQIAAAQBAAAAAAAAAAAQwBABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormChiTietHoaDon.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormChiTietHoaDon.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormChiTietHoaDon.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAgwJYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMon.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormMon.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormMon.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormMon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormThongKe.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormThongKe.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormThongKe.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormThongKe.cs",
+              "ViewState": "AQIAABgBAAAAAAAAAAAEwB0BAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\FormChinh\\FormMenu.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\FormChinh\\FormMenu.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\FormChinh\\FormMenu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\FormChinh\\FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormThongKe.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormThongKe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\FormChinh\\FormMenu.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\FormChinh\\FormMenu.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\FormChinh\\FormMenu.cs",
+              "RelativeToolTip": "QuanLyCafe\\FormChinh\\FormMenu.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAkwOMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormNhaCungCap.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormNhaCungCap.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormNhaCungCap.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormNhaCungCap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormNhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormReport.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormReport.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormReport.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormNhanVien.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormNhanVien.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormNhanVien.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormNhanVien.cs",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAjwCoBAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormNhanVien.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormNhaCungCap.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormNhaCungCap.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormNhaCungCap.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormNhaCungCap.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormNhaCungCap.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAjwLEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormKho.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKho.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormKho.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKho.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormDoiThongTin.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormDoiThongTin.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormDoiThongTin.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormDoiThongTin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormDoiThongTin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormDanhMuc.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormDanhMuc.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormDanhMuc.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormDanhMuc.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormDanhMuc.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAvwE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormDanhMuc.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormDanhMuc.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormDanhMuc.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormDanhMuc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormChiTietHoaDon.cs",
+              "ToolTip": "D:\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormChiTietHoaDon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\\u0110\u1ED3 \u00E1n c\u01A1 s\u1EDF\\Cook ph\u00E1t cu\u1ED1i\\New folder\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Program.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Program.cs",
+              "RelativeToolTip": "QuanLyCafe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:37:36.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FromInfoUserStaff.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FromInfoUserStaff.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FromInfoUserStaff.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FromInfoUserStaff.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FromInfoUserStaff.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAnwDwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FromInfoUserStaff.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FromInfoUserStaff.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FromInfoUserStaff.cs",
+              "ToolTip": "D:\\Coding\\Cook lan 2\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FromInfoUserStaff.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\Cook lan 2\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FromInfoUserStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormBanHang.Designer.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormBanHang.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormBanHang.Designer.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormBanHang.Designer.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormBanHang.Designer.cs",
+              "ViewState": "AQIAAHMBAAAAAAAAAAAnwIsBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-19T15:37:36.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormKhuyenMai.Designer.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKhuyenMai.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormKhuyenMai.Designer.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKhuyenMai.Designer.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormKhuyenMai.Designer.cs",
+              "ViewState": "AQIAAHQCAAAAAAAAAAAnwJwCAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-03-19T15:37:36.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HoaDonReport.rdlc [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\HoaDonReport.rdlc",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\HoaDonReport.rdlc",
+              "ToolTip": "D:\\Coding\\Cook lan 2\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\HoaDonReport.rdlc [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\Cook lan 2\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\HoaDonReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-03-19T15:37:36.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormKho.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKho.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormKho.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormKho.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormKho.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormDoiThongTin.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormDoiThongTin.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\Forms\\FormDoiThongTin.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\Forms\\FormDoiThongTin.cs",
+              "RelativeToolTip": "QuanLyCafe\\Forms\\FormDoiThongTin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormUser.cs [Design]",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\FormChinh\\FormUser.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\FormChinh\\FormUser.cs",
+              "ToolTip": "D:\\Coding\\Cook lan 2\\QuanLyCafe-fix\\QuanLyCafe\\FormChinh\\FormUser.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Coding\\Cook lan 2\\QuanLyCafe-fix\\QuanLyCafe\\FormChinh\\FormUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormUser.cs",
+              "DocumentMoniker": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\FormChinh\\FormUser.cs",
+              "RelativeDocumentMoniker": "QuanLyCafe\\FormChinh\\FormUser.cs",
+              "ToolTip": "D:\\quanlicaphe-main\\quanlicaphe-main\\QuanLyCafe-fix\\QuanLyCafe-fix\\QuanLyCafe\\FormChinh\\FormUser.cs",
+              "RelativeToolTip": "QuanLyCafe\\FormChinh\\FormUser.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAjwMoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-03-19T15:37:36.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
